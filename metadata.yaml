@@ -10,12 +10,17 @@ contributor:
     deathdate: 2007
     gutenberg_agent_id: '33400'
     url: http://www.gutenberg.org/2009/agents/33400
+covers:
+- cover_type: archival
+  image_path: 63713-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldstein, Evelyn
     gutenberg_agent_id: '52562'
     url: http://www.gutenberg.org/2009/agents/52562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63713#Land-Beyond-the-Flame
 gutenberg_issued: '2020-11-11'
 gutenberg_type: Text
 identifiers:
